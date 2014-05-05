@@ -60,7 +60,7 @@ function _s_setup() {
 		'search-form',
 		'comment-form',
 		'gallery',
-		'caption'
+		'caption',
 	) );
 }
 endif; // _s_setup
